@@ -4,6 +4,7 @@
     <Page id="page" title="{i18n>title}">
         <content>
         <Text id="t1" text="hello world"/>
+        <Text id="t2" text="hello world2"/>
         </content>
     </Page>
 </mvc:View>
